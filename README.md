@@ -1,12 +1,5 @@
-# CustomShell - Stage 2
+# CustomShell
 - **Author**: Eris Alihakaj
-- **Student_ID**: 23305593
-- **Acknowledgement**: I acknowledge DCU's Academic Integrity Policy.
-
-## Overview
-This is Stage 2 of my custom shell, which I developed as part of the CSC1021 Operating Systems module. CustomShell is a simple command-line shell implemented in C. It supports a variety of internal commands, batch mode execution, I/O redirection, background execution, and environment variable expansion. This stage builds upon Stage 1, adding advanced features to enhance functionality and usability.
-
----
 
 ## Features
 
