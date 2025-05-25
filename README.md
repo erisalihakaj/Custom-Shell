@@ -81,10 +81,10 @@ For a detailed user manual, run the help command in the shell or refer to the ma
 ### Building the Shell
 1. Clone the repository:
    ```bash
-   git clone https://gitlab.computing.dcu.ie/your-repo.git
+   git clone https://github.com/your-repo.git
 2. Navigate to the project directory:
    ```bash
-   cd 2025-customshell-23305593-erisalihakaj/Stage1
+   cd 2025-customshell/
 3. Build the shell by running:
    ``` bash
    make 
