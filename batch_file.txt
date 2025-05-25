@@ -1,0 +1,7 @@
+dir 
+cd ..
+environ 
+echo hello world
+pause
+help
+quit

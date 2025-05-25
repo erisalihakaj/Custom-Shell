@@ -1,0 +1,59 @@
+User Manual:
+=================
+
+Basic Commands:
+---------------
+clr                - Clears the terminal screen.
+cd <directory>     - Changes the current directory.
+quit               - Exits the shell.
+dir [directory]    - Lists the contents of the specified directory.
+environ            - Displays the environment variables.
+echo <text>        - Prints the provided text.
+pause              - Waits for the user to press Enter to continue.
+help               - Displays this user manual.
+
+
+Advanced Features:
+------------------
+
+I/O Redirection:
+  <                - Redirects input from a file.
+                   Example: command < input.txt
+
+  >                - Redirects output to a file (overwrites the file).
+                   Example: command > output.txt
+
+  >>               - Redirects output to a file (appends to the file).
+                   Example: command >> output.txt
+
+Background Execution:
+  &                - Add & at the end of a command to run it in the background.
+                   Example: sleep 10 &
+
+Environment Variable Expansion:
+  $VAR             - Use $VAR to expand environment variables in commands.
+                   Example: echo $HOME will print the value of the HOME environment variable.
+
+
+Batch Files:
+------------
+You can run a batch file by passing its name as an argument to the shell.
+Example: ./bin/customshell batchfile.txt
+
+
+Examples:
+---------
+
+I/O Redirection:
+  echo Hello > output.txt  - Writes "Hello" to output.txt.
+  dir >> log.txt          - Appends the directory listing to log.txt.
+  sort < input.txt        - Sorts the contents of input.txt.
+
+Background Execution:
+  sleep 10 &              - Runs sleep 10 in the background.
+
+Environment Variable Expansion:
+  echo Current user: $USER - Prints the current user's username.
+
+
+=== End of Manual ===
