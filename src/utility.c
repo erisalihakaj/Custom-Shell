@@ -1,7 +1,5 @@
 // utility.c
 // Author: Eris Alihakaj
-// Student_ID: 23305593
-// I Acknowledge DCU's Academic Integrity Policy 
 
 #include "customshell.h"
 
