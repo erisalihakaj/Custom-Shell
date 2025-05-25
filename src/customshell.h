@@ -1,7 +1,5 @@
 // customshell.h
 // Author: Eris Alihakaj
-// Student_ID: 23305593
-// I Acknowledge DCU's Academic Integrity Policy 
 
 #ifndef CUSTOMSHELL_H
 #define CUSTOMSHELL_H
