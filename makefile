@@ -1,7 +1,5 @@
 # Makefile
 # Author: Eris Alihakaj
-# Student_ID: 23305593
-# I Acknowledge DCU's Academic Integrity Policy 
 
 # Configuration
 COMPILER = gcc
